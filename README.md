@@ -13,5 +13,5 @@ I'm planning to learn more about data warehousing, data processing at a large sc
 
 ## 📞 Contacts
 
-<a href="https://www.linkedin.com/in/rayhanmp/"><img src="https://img.shields.io/badge/-rayhammp-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
+<a href="https://www.linkedin.com/in/rayhanmp/"><img src="https://img.shields.io/badge/-rayhanmp-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
 <a href="https://www.instagram.com/rayhanmhw/"><img src="https://img.shields.io/badge/-@rayhanmhw-333333?style=flat-square&logo=instagram&logoColor=white/">
