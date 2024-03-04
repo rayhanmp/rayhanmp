@@ -10,7 +10,7 @@ I'm an Information and System Technology Student at Bandung Institute of Technol
 
 I'm planning to learn more about data warehousing, data processing at a large scale, ML, and things related to computational biology.
 
-### Things I've Worked with
+### ⚙️ Things I've Worked with
 <p>
 <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=c">
 <img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java">
