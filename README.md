@@ -4,13 +4,13 @@ I'm an Information and System Technology Student at Bandung Institute of Technol
 ### ⭐ Things I'm Comfortable at:
 - Python for Data Processing
 - Web Development (HTML, CSS, React, Next, Express, etc)
-- Git Workflow
 - UI/UX Design
-- Making UML Diagrams for SE
+- UML Diagrams for SE
+- Git Workflow
 
 I'm planning to learn more about data warehousing, data processing at a large scale, ML, and things related to computational biology.
 
-### ⚙️ Things I've Worked with
+### ⚙️ Things I've Worked with:
 <p>
 <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=c">
 <img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java">
