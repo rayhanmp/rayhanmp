@@ -1,5 +1,5 @@
 ## Hi! 👋
-I'm an Information and System Technology Student at Bandung Institute of Technology. My long-term interest is in DS/AI, specifically in the bioinformatics field. However, as of right now, I usually experiment with various tech stacks and different aspects of web development. Most of the repositories uploaded here are my group projects for university, although occasionally I do my own fun side projects.
+I'm an Information and System Technology Student at Bandung Institute of Technology. My long-term interest is in DS/AI, specifically in the bioinformatics field. However, as of right now, I usually experiment with various tech stacks and different aspects of web development. Most of the repositories uploaded here are my group projects for university, but occasionally I do my own fun side projects.
 
 ### ⭐ Things I'm Comfortable at:
 - Python for Data Processing
@@ -23,7 +23,13 @@ I'm planning to learn more about data warehousing, data processing at a large sc
 <img src="https://img.shields.io/badge/-Next-333333?style=flat-square&logo=next.js">
 <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
 <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
+<img src="https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi">
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
+<img src="https://img.shields.io/badge/-Affinity Products-333333?style=flat-square&logo=affinity">
+<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop">
+<img src="https://img.shields.io/badge/-After Effect-333333?style=flat-square&logo=adobeaftereffects">
+<img src="https://img.shields.io/badge/-Premiere Pro-333333?style=flat-square&logo=adobepremierepro">
+<img src="https://img.shields.io/badge/-LaTeX-333333?style=flat-square&logo=latex">
 <img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman">
 <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia">
 <img src="https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=node.js">
