@@ -4,6 +4,8 @@ I'm an Information and System Technology Student at Bandung Institute of Technol
 ### ⭐ Things I'm Comfortable at:
 - Python for Data Processing
 - Web Development (HTML, CSS, React, Next, Express, etc)
+- DS/AI
+- Database Modelling
 - UI/UX Design
 - UML Diagrams for SE
 - Git Workflow
