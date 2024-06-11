@@ -23,7 +23,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-Next-333333?style=flat-square&logo=next.js">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/React_Native-333333?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
 <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
 <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi">
