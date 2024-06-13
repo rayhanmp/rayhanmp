@@ -42,6 +42,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
 <img src="https://img.shields.io/badge/-MariaDB-333333?style=flat-square&logo=mariadb">
 <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql">
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
+<img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
 <img src="https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma">
 <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu">
 <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
