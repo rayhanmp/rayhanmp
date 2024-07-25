@@ -27,9 +27,10 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=node.js">
   <img src="https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express">
   <img src="https://img.shields.io/badge/-Spring Boot-333333?style=flat-square&logo=springboot">
+  <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi">
+  <img src="https://img.shields.io/badge/-tRPC-333333?style=flat-square&logo=tRPC">
   <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/-Next-333333?style=flat-square&logo=next.js">
-  <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi">
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
   <img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman">
   <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia">
@@ -39,17 +40,21 @@ I'm planning to learn more about data warehousing, data processing at a large sc
 
 <h5>Database Stuff</h5>
 <p>
-<img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
-<img src="https://img.shields.io/badge/-MariaDB-333333?style=flat-square&logo=mariadb">
-<img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql">
-<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
-<img src="https://img.shields.io/badge/-OracleDB-333333?style=flat-square&logo=oracle">
-<img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
-<img src="https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma">
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
+  <img src="https://img.shields.io/badge/-MariaDB-333333?style=flat-square&logo=mariadb">
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql">
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
+  <img src="https://img.shields.io/badge/-OracleDB-333333?style=flat-square&logo=oracle">
+  <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
+  <img src="https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma">
+  <img src="https://img.shields.io/badge/-Drizzle-333333?style=flat-square&logo=drizzle">
+  <img src="https://img.shields.io/badge/-Kafka-333333?style=flat-square&logo=apache-kafka">
+  <img src="https://img.shields.io/badge/-Debezium-333333?style=flat-square&logo=debezium">
 </p>
 
 <h5>Mobile Development</h5>
-<p><img src="https://img.shields.io/badge/React_Native-333333?style=flat-square&logo=react">
+<p>
+    <img src="https://img.shields.io/badge/React_Native-333333?style=flat-square&logo=react">
 </p>
 
 <h5>General</h5>
