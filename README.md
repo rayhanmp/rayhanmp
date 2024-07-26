@@ -50,6 +50,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-Drizzle-333333?style=flat-square&logo=drizzle">
   <img src="https://img.shields.io/badge/-Kafka-333333?style=flat-square&logo=apache-kafka">
   <img src="https://img.shields.io/badge/-Debezium-333333?style=flat-square&logo=debezium">
+  <img src="https://img.shields.io/badge/-Liquibase-333333?style=flat-square&logo=liquibase">
 </p>
 
 <h5>Mobile Development</h5>
