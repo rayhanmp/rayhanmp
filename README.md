@@ -61,6 +61,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
 <h5>General</h5>
 <p>
   <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu">
+  <img src="https://img.shields.io/badge/-Nginx-333333?style=flat-square&logo=nginx">
   <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github">
   <img src="https://img.shields.io/badge/-GitLab-333333?style=flat-square&logo=gitlab">
