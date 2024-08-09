@@ -2,10 +2,9 @@
 I'm an Information and System Technology Student at Bandung Institute of Technology. My long-term interest is in DS/AI, specifically in the bioinformatics field. However, as of right now, I usually experiment with various tech stacks and different aspects of web development. Most of the repositories uploaded here are my group projects for university, but occasionally I do my own fun side projects.
 
 ### ⭐ Things I'm Comfortable at:
-- Python for Data Processing
-- Web Development (HTML, CSS, React, Next, Express, etc)
+- Web Development (leaning towards BE)
+- Data Pipeline
 - DS/AI
-- Database Modelling
 
 I'm planning to learn more about data warehousing, data processing at a large scale, ML, and things related to computational biology.
 
@@ -34,11 +33,12 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
   <img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman">
   <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia">
-  <img src="https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel">
+  <img src="https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma">
+  <img src="https://img.shields.io/badge/-Drizzle-333333?style=flat-square&logo=drizzle">
   <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
 </p>
 
-<h5>Database Stuff</h5>
+<h5>DBMS-related</h5>
 <p>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
   <img src="https://img.shields.io/badge/-MariaDB-333333?style=flat-square&logo=mariadb">
@@ -46,11 +46,16 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
   <img src="https://img.shields.io/badge/-OracleDB-333333?style=flat-square&logo=oracle">
   <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
-  <img src="https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma">
-  <img src="https://img.shields.io/badge/-Drizzle-333333?style=flat-square&logo=drizzle">
+  <img src="https://img.shields.io/badge/-Supabase-333333?style=flat-square&logo=supabase">
+  <img src="https://img.shields.io/badge/-Elastic-333333?style=flat-square&logo=elastic">
+</p>
+
+<h5>Data Tools</h5>
+<p>
   <img src="https://img.shields.io/badge/-Kafka-333333?style=flat-square&logo=apache-kafka">
   <img src="https://img.shields.io/badge/-Debezium-333333?style=flat-square&logo=debezium">
   <img src="https://img.shields.io/badge/-Liquibase-333333?style=flat-square&logo=liquibase">
+  <img src="https://img.shields.io/badge/-Tableau-333333?style=flat-square&logo=tableau">
 </p>
 
 <h5>Mobile Development</h5>
