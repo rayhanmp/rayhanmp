@@ -1,8 +1,8 @@
 ## Hi! 👋
-I'm an Information and System Technology Student at Bandung Institute of Technology. My long-term interest is in DS/AI, specifically in the bioinformatics field. However, as of right now, I usually experiment with various tech stacks and different aspects of web development. Most of the repositories uploaded here are my group projects for university, but occasionally I do my own fun side projects.
+I'm an Information and System Technology Student at Bandung Institute of Technology. My long-term interest is in DS/AI, specifically in the bioinformatics/cheminformatics field. However, as of right now, I usually experiment with various tech stacks and different aspects of web development. Most of the repositories uploaded here are my group projects for university, but occasionally I do my own fun side projects.
 
 ### ⭐ Things I'm Comfortable at:
-- Web Development (leaning towards BE)
+- Web Development
 - Data Pipeline
 - DS/AI
 
