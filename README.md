@@ -8,16 +8,19 @@ I'm an Information and System Technology Student at Bandung Institute of Technol
 
 I'm planning to learn more about data warehousing, data processing at a large scale, ML, and things related to computational biology.
 
-### ⚙️ Things I've Worked with:
+### ⚙️ Tech Stack:
   <h5>Languages</h5>
   <p>
   <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=c">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript">
   <img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java">
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=sql">
+  <img src="https://img.shields.io/badge/-R-333333?style=flat-square&logo=R">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/-Haskell-333333?style=flat-square&logo=haskell">
+  <img src="https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=sql">
+  <img src="https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5">
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3">
   <img src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnubash">
 </p>
 
@@ -31,14 +34,13 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/-Next-333333?style=flat-square&logo=next.js">
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
-  <img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman">
-  <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia">
   <img src="https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma">
   <img src="https://img.shields.io/badge/-Drizzle-333333?style=flat-square&logo=drizzle">
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/-Vite-333333?style=flat-square&logo=vite">
+  <img src="https://img.shields.io/badge/-JWT-333333?style=flat-square&logo=jsonwebtokens">
 </p>
 
-<h5>DBMS-related</h5>
+<h5>DBMS</h5>
 <p>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
   <img src="https://img.shields.io/badge/-MariaDB-333333?style=flat-square&logo=mariadb">
@@ -50,12 +52,14 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-Elastic-333333?style=flat-square&logo=elastic">
 </p>
 
-<h5>Data Tools</h5>
+<h5>Data Science & Machine Learning</h5>
 <p>
-  <img src="https://img.shields.io/badge/-Kafka-333333?style=flat-square&logo=apache-kafka">
-  <img src="https://img.shields.io/badge/-Debezium-333333?style=flat-square&logo=debezium">
-  <img src="https://img.shields.io/badge/-Liquibase-333333?style=flat-square&logo=liquibase">
-  <img src="https://img.shields.io/badge/-Tableau-333333?style=flat-square&logo=tableau">
+    <img src="https://img.shields.io/badge/Pandas-333333?style=flat-square&logo=pandas">
+    <img src="https://img.shields.io/badge/Numpy-333333?style=flat-square&logo=numpy">
+    <img src="https://img.shields.io/badge/Keras-333333?style=flat-square&logo=keras">
+    <img src="https://img.shields.io/badge/PyTorch-333333?style=flat-square&logo=pytorch">
+    <img src="https://img.shields.io/badge/OpenCV-333333?style=flat-square&logo=opencv">
+    <img src="https://img.shields.io/badge/SciKit--Learn-333333?style=flat-square&logo=scikitlearn">
 </p>
 
 <h5>Mobile Development</h5>
@@ -63,18 +67,22 @@ I'm planning to learn more about data warehousing, data processing at a large sc
     <img src="https://img.shields.io/badge/React_Native-333333?style=flat-square&logo=react">
 </p>
 
-<h5>General</h5>
+<h5>Tools</h5>
 <p>
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/-Kafka-333333?style=flat-square&logo=apache-kafka">
+  <img src="https://img.shields.io/badge/-Debezium-333333?style=flat-square&logo=debezium">
+  <img src="https://img.shields.io/badge/-Liquibase-333333?style=flat-square&logo=liquibase">
+  <img src="https://img.shields.io/badge/-Tableau-333333?style=flat-square&logo=tableau">
   <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu">
   <img src="https://img.shields.io/badge/-Nginx-333333?style=flat-square&logo=nginx">
+  <img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman">
+  <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia">
+  <img src="https://img.shields.io/badge/-Selenium-333333?style=flat-square&logo=selenium">
   <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github">
   <img src="https://img.shields.io/badge/-GitLab-333333?style=flat-square&logo=gitlab">
   <img src="https://img.shields.io/badge/-LaTeX-333333?style=flat-square&logo=latex">
-</p>
-
-<h5>Design Tools</h5>
-<p>
   <img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
   <img src="https://img.shields.io/badge/-Affinity Products-333333?style=flat-square&logo=affinity">
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop">
