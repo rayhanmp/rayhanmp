@@ -88,6 +88,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop">
   <img src="https://img.shields.io/badge/-After Effect-333333?style=flat-square&logo=adobeaftereffects">
   <img src="https://img.shields.io/badge/-Premiere Pro-333333?style=flat-square&logo=adobepremierepro">
+  <img src="https://img.shields.io/badge/-Benchling-333333?style=flat-square&logo=benchling">
 </p>
 
 
