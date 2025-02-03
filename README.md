@@ -1,14 +1,19 @@
 ## Hi! 👋
-I'm an Information and System Technology Student at Bandung Institute of Technology. My long-term interest is in DS/AI, specifically in the bioinformatics/cheminformatics field. However, as of right now, I usually experiment with various tech stacks and different aspects of web development. Most of the repositories uploaded here are my group projects for university, but occasionally I do my own fun side projects.
+I'm an **Information and System Technology student** at **Bandung Institute of Technology**. My long-term interest lies in **Data Science (DS)** and **Artificial Intelligence (AI)**, particularly within the fields of **bioinformatics** and **cheminformatics**. Currently, I’m working on my **undergraduate thesis**, focusing on **Graph Neural Networks (GNNs)** for **Protein-Ligand Interaction (PLI) prediction**.  
 
-### ⭐ Things I'm Comfortable at:
-- Web Development
-- Data Pipeline
-- DS/AI
+While my academic focus is on computational biology, I also enjoy learning **web development**  sometimes. Most of the repositories here are university group projects, but I also love creating side projects just for fun.  
 
-I'm planning to learn more about data warehousing, data processing at a large scale, ML, and things related to computational biology.
+### ⭐ **Things I'm Comfortable With:**  
+- **Web Development** (Full-Stack Development)  
+- **Data Pipelines** & ETL Processes  
+- **Data Science & AI** (with a focus on Bioinformatics/Cheminformatics)  
 
-### ⚙️ Tech Stack:
+### 🚀 **Currently Exploring:**  
+- **Parallel Computing**  
+- **MLOps** & Model Deployment
+- **Computational Biology** & Structural Bioinformatics 
+
+## ⚙️ Tech Stack:
   <h5>Languages</h5>
   <p>
   <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=c">
@@ -24,7 +29,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnubash">
 </p>
 
-<h5>Web Development</h5>
+<h5>Web Development Frameworks & Tools</h5>
 <p>
   <img src="https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=node.js">
   <img src="https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express">
@@ -40,7 +45,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-JWT-333333?style=flat-square&logo=jsonwebtokens">
 </p>
 
-<h5>DBMS</h5>
+<h5>Databases & Storages (DBMS)</h5>
 <p>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
   <img src="https://img.shields.io/badge/-MariaDB-333333?style=flat-square&logo=mariadb">
@@ -59,7 +64,24 @@ I'm planning to learn more about data warehousing, data processing at a large sc
     <img src="https://img.shields.io/badge/Keras-333333?style=flat-square&logo=keras">
     <img src="https://img.shields.io/badge/PyTorch-333333?style=flat-square&logo=pytorch">
     <img src="https://img.shields.io/badge/OpenCV-333333?style=flat-square&logo=opencv">
+    <img src="https://img.shields.io/badge/MLflow-333333?style=flat-square&logo=mlflow">
     <img src="https://img.shields.io/badge/SciKit--Learn-333333?style=flat-square&logo=scikitlearn">
+</p>
+
+<h5>Bioinformatics & Cheminformatics </h5>
+<p>
+    <img src="https://img.shields.io/badge/-MEGA-176c37?style=flat-square&logo=-MEGA">
+    <img src="https://img.shields.io/badge/-BioPython-ffd141?style=flat-square&logo=BioPython">
+    <img src="https://img.shields.io/badge/-Mothur-035893?style=flat-square&logo=Mothur">
+    <img src="https://img.shields.io/badge/-RDKit-7a7aff?style=flat-square&logo=RDKit">
+    <img src="https://img.shields.io/badge/-ORCA-00AEC3?style=flat-square&logo=ORCA">
+    <img src="https://img.shields.io/badge/-GROMACS-4e6f98?style=flat-square&logo=GROMACS">
+    <img src="https://img.shields.io/badge/-AutoDock Vina-000000?style=flat-square&logo=AutodDock-Vina">
+    <img src="https://img.shields.io/badge/-PyMOL-dada00?style=flat-square&logo=PyMOL">
+    <img src="https://img.shields.io/badge/-VMD-2b5c5c?style=flat-square&logo=VMD">
+    <img src="https://img.shields.io/badge/-Avogadro-04bdec?style=flat-square&logo=avogadro">
+    <img src="https://img.shields.io/badge/-Benchling-000db5?style=flat-square&logo=benchling">
+
 </p>
 
 <h5>Mobile Development</h5>
@@ -67,7 +89,7 @@ I'm planning to learn more about data warehousing, data processing at a large sc
     <img src="https://img.shields.io/badge/React_Native-333333?style=flat-square&logo=react">
 </p>
 
-<h5>Tools</h5>
+<h5>General Tools</h5>
 <p>
   <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/-Kafka-333333?style=flat-square&logo=apache-kafka">
@@ -88,7 +110,6 @@ I'm planning to learn more about data warehousing, data processing at a large sc
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop">
   <img src="https://img.shields.io/badge/-After Effect-333333?style=flat-square&logo=adobeaftereffects">
   <img src="https://img.shields.io/badge/-Premiere Pro-333333?style=flat-square&logo=adobepremierepro">
-  <img src="https://img.shields.io/badge/-Benchling-333333?style=flat-square&logo=benchling">
 </p>
 
 
