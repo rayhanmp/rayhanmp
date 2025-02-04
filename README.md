@@ -1,19 +1,15 @@
 ## Hi! 👋
-I'm an **Information and System Technology student** at **Bandung Institute of Technology**. My long-term interest lies in **Data Science (DS)** and **Artificial Intelligence (AI)**, particularly within the fields of **bioinformatics** and **cheminformatics**. Currently, I’m working on my **undergraduate thesis**, focusing on **Graph Neural Networks (GNNs)** for **Protein-Ligand Interaction (PLI) prediction**.  
+I'm an Information and System Technology student at Bandung Institute of Technology. My long-term interest lies in Data Science (DS) and Artificial Intelligence (AI), particularly within the fields of **bioinformatics** and **cheminformatics**. Currently, I’m working on my undergraduate thesis, focusing on Graph Neural Networks (GNNs) for Protein-Ligand Interaction (PLI) prediction.  
 
 While my academic focus is on computational biology, I also enjoy learning **web development**  sometimes. Most of the repositories here are university group projects, but I also love creating side projects just for fun.  
 
-### ⭐ **Things I'm Comfortable With:**  
+---
+### 🎯 **What I’m Passionate About** 
 - **Web Development** (Full-Stack Development)  
 - **Data Pipelines** & ETL Processes  
 - **Data Science & AI** (with a focus on Bioinformatics/Cheminformatics)  
-
-### 🚀 **Currently Exploring:**  
-- **Parallel Computing**  
-- **MLOps** & Model Deployment
-- **Computational Biology** & Structural Bioinformatics 
-
-## ⚙️ Tech Stack:
+---
+### 🛠️ Tech Stack:
   <h5>Languages</h5>
   <p>
   <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=c">
@@ -112,8 +108,24 @@ While my academic focus is on computational biology, I also enjoy learning **web
   <img src="https://img.shields.io/badge/-Premiere Pro-333333?style=flat-square&logo=adobepremierepro">
 </p>
 
+---
 
-## 📞 Contacts
+### 🔍 **Currently Exploring**  
+- Graph Neural Network
+- MLOps
+- Computational Biology
+ 
+---
+
+### 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhanmp&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanmp&theme=dark" alt="GitHub Streak">
+</p>
+
+---
+
+### 📞 Contacts
 
 <a href="https://www.linkedin.com/in/rayhanmp/"><img src="https://img.shields.io/badge/-rayhanmp-333333?style=flat-square&logo=Linkedin&logoColor=white/"></a>
 <a href="https://www.instagram.com/rayhanmhw/"><img src="https://img.shields.io/badge/-@rayhanmhw-333333?style=flat-square&logo=instagram&logoColor=white/">
