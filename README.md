@@ -48,9 +48,11 @@ While my academic focus is on computational biology, I also enjoy learning **web
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql">
   <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
   <img src="https://img.shields.io/badge/-OracleDB-333333?style=flat-square&logo=oracle">
-  <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
+  <img src="https://img.shields.io/badge/-SQLite-333333?style=flat-square&logo=sqlite">
   <img src="https://img.shields.io/badge/-Supabase-333333?style=flat-square&logo=supabase">
+  <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
   <img src="https://img.shields.io/badge/-Elastic-333333?style=flat-square&logo=elastic">
+  <img src="https://img.shields.io/badge/-Hadoop-333333?style=flat-square&logo=apachehadoop">
 </p>
 
 <h5>Data Science & Machine Learning</h5>
@@ -62,9 +64,11 @@ While my academic focus is on computational biology, I also enjoy learning **web
     <img src="https://img.shields.io/badge/OpenCV-333333?style=flat-square&logo=opencv">
     <img src="https://img.shields.io/badge/MLflow-333333?style=flat-square&logo=mlflow">
     <img src="https://img.shields.io/badge/SciKit--Learn-333333?style=flat-square&logo=scikitlearn">
+    <img src="https://img.shields.io/badge/LangChain-333333?style=flat-square&logo=langchain">
+    <img src="https://img.shields.io/badge/OpenAI--API-333333?style=flat-square&logo=openai">
 </p>
 
-<h5>Bioinformatics & Cheminformatics </h5>
+<h5>Biology & Chemistry Tools</h5>
 <p>
     <img src="https://img.shields.io/badge/-MEGA-176c37?style=flat-square&logo=-MEGA">
     <img src="https://img.shields.io/badge/-BioPython-ffd141?style=flat-square&logo=BioPython">
@@ -77,6 +81,9 @@ While my academic focus is on computational biology, I also enjoy learning **web
     <img src="https://img.shields.io/badge/-VMD-2b5c5c?style=flat-square&logo=VMD">
     <img src="https://img.shields.io/badge/-Avogadro-04bdec?style=flat-square&logo=avogadro">
     <img src="https://img.shields.io/badge/-Benchling-000db5?style=flat-square&logo=benchling">
+    <img src="https://img.shields.io/badge/-CFX Manager-009844?style=flat-square&logo=cfxmanager">
+    <img src="https://img.shields.io/badge/-ImageJ-333333?style=flat-square&logo=imagej">
+
 
 </p>
 
