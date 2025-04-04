@@ -32,6 +32,7 @@ While my academic focus is on computational biology, I also enjoy learning **web
   <img src="https://img.shields.io/badge/-Spring Boot-333333?style=flat-square&logo=springboot">
   <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi">
   <img src="https://img.shields.io/badge/-tRPC-333333?style=flat-square&logo=tRPC">
+  <img src="https://img.shields.io/badge/-Astro-333333?style=flat-square&logo=astro">
   <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/-Next-333333?style=flat-square&logo=next.js">
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
