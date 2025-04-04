@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hi there, I'm Ray! 👋
 I'm an Information and System Technology student at Bandung Institute of Technology. My long-term interest lies in Data Science (DS) and Artificial Intelligence (AI), particularly within the fields of **bioinformatics** and **cheminformatics**. Currently, I’m working on my undergraduate thesis, focusing on Graph Neural Networks (GNNs) for Protein-Ligand Interaction (PLI) prediction.  
 
 While my academic focus is on computational biology, I also enjoy learning **web development**  sometimes. Most of the repositories here are university group projects, but I also love creating side projects just for fun.  
