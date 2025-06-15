@@ -41,6 +41,7 @@ While my academic focus is on computational biology, I also enjoy learning **web
   <img src="https://img.shields.io/badge/-Drizzle-333333?style=flat-square&logo=drizzle">
   <img src="https://img.shields.io/badge/-Vite-333333?style=flat-square&logo=vite">
   <img src="https://img.shields.io/badge/-JWT-333333?style=flat-square&logo=jsonwebtokens">
+  <img src="https://img.shields.io/badge/-Zod-333333?style=flat-square&logo=zod">
 </p>
 
 <h5>Databases & Storages (DBMS)</h5>
