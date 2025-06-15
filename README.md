@@ -57,6 +57,8 @@ While my academic focus is on computational biology, I also enjoy learning **web
   <img src="https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis">
   <img src="https://img.shields.io/badge/-Elastic-333333?style=flat-square&logo=elastic">
   <img src="https://img.shields.io/badge/-Hadoop-333333?style=flat-square&logo=apachehadoop">
+  <img src="https://img.shields.io/badge/-R2 Object Storage-333333?style=flat-square&logo=cloudflare">
+
 </p>
 
 <h5>Data Science & Machine Learning</h5>
