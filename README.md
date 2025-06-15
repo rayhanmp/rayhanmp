@@ -35,7 +35,7 @@ While my academic focus is on computational biology, I also enjoy learning **web
   <img src="https://img.shields.io/badge/-Astro-333333?style=flat-square&logo=astro">
   <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/-Next-333333?style=flat-square&logo=next.js">
-  <img src="https://img.shields.io/badge/-Lottie-333333?style=flat-square&logo=lottiefiles">
+  <img src="https://img.shields.io/badge/-Fastify-333333?style=flat-square&logo=fastify">
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
   <img src="https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma">
   <img src="https://img.shields.io/badge/-Drizzle-333333?style=flat-square&logo=drizzle">
@@ -53,6 +53,7 @@ While my academic focus is on computational biology, I also enjoy learning **web
   <img src="https://img.shields.io/badge/-SQLite-333333?style=flat-square&logo=sqlite">
   <img src="https://img.shields.io/badge/-Supabase-333333?style=flat-square&logo=supabase">
   <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
+  <img src="https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis">
   <img src="https://img.shields.io/badge/-Elastic-333333?style=flat-square&logo=elastic">
   <img src="https://img.shields.io/badge/-Hadoop-333333?style=flat-square&logo=apachehadoop">
 </p>
